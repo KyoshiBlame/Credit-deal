@@ -474,4 +474,4 @@ order by total_amount desc;
 
 ## Автор
 
-Имя Фамилия · Томский государственный университет, программная инженерия · [GitHub](https://github.com/USERNAME)
+Морозов Никита · Томский государственный университет, программная инженерия · [GitHub](https://github.com/kyoshiBlame)
